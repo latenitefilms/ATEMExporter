@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.8.1.801635932055">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.8.1.801637252849">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.8.1">
@@ -32,11 +32,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=3.8.1.801635932055" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.8.1.801637252849" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.8.1.801635932055" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.8.1.801637252849" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.8.1" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.8.1.801635932055" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.8.1.801637252849" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -294,16 +294,15 @@
     <figcaption class="caption"></figcaption>
 </figure>
 </p>
-<p>You should now be able to connect to the ATEM.</p>
-<p>ATEM Exporter was built in a few hours during a live event, and has <strong>only</strong> been tested in a real-world live production using an <strong>ATEM Constellation</strong>, Blackmagic HyperDeck&#x27;s and AJA recorders for ISOs - so if you use a different variety of ATEM, it may or may not work currently.</p>
-<p>Once connected, it will start logging the camera changes, and you should see the results in the table.</p>
+<p>You should now be able to connect to the ATEM over Ethernet.</p>
+<p>Once connected, it will start logging the camera changes, and you should see the results instantly in the interface:</p>
 <p><figure class="content-center">
     <img src="../static/demo-data.png" alt="">
     <figcaption class="caption"></figcaption>
 </figure>
 </p>
-<p>To export, stop the connection, then select an <strong>Export</strong> option, which generates a <code v-pre>FCPXML</code> for <strong>Final Cut Pro</strong> or <strong>DaVinci Resolve</strong>.</p>
-<p>You can&#x27;t export the data whilst still in record mode.</p>
+<p>To export, first stop the connection, then select an <strong>Export</strong> option, which generates a <code v-pre>FCPXML</code> for <strong>Final Cut Pro</strong> or <strong>DaVinci Resolve</strong>.</p>
+<p>You can&#x27;t export the data whilst still in record mode, so you need to stop before the Export option is clickable.</p>
 <hr>
 <doc-anchor-target id="export-program-cut">
     <h2>
@@ -347,6 +346,52 @@
 </figure>
 </p>
 <p>You could then create your own dummy media (i.e. something that starts at <code v-pre>20:54:50:00</code> at 50fps) to test out the FCPXML exports.</p>
+<hr>
+<doc-anchor-target id="supported-hardware">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#supported-hardware">#</doc-anchor-trigger>
+        <span>Supported Hardware</span>
+    </h2>
+</doc-anchor-target>
+<p>ATEM Exporter was built in a few hours during a live event, and has <strong>only</strong> been physically tested in a real-world live production using an <strong>ATEM Constellation</strong>, Blackmagic HyperDeck&#x27;s and AJA recorders for ISOs - so if you use a different variety of ATEM, it may or may not work currently.</p>
+<p>In THEORY though, the following devices are supported:</p>
+<ul>
+<li>ATEM 1 M/E Advanced Panel 10</li>
+<li>ATEM 1 M/E Advanced Panel 10</li>
+<li>ATEM 1 M/E Advanced Panel 10</li>
+<li>ATEM 1 M/E Advanced Panel 20</li>
+<li>ATEM 1 M/E Advanced Panel 30</li>
+<li>ATEM 1 M/E Constellation 4K</li>
+<li>ATEM 1 M/E Constellation HD</li>
+<li>ATEM 2 M/E Advanced Panel 20</li>
+<li>ATEM 2 M/E Advanced Panel 30</li>
+<li>ATEM 2 M/E Advanced Panel 40</li>
+<li>ATEM 2 M/E Constellation 4K</li>
+<li>ATEM 2 M/E Constellation HD</li>
+<li>ATEM 4 M/E Advanced Panel 40</li>
+<li>ATEM 4 M/E Constellation 4K</li>
+<li>ATEM 4 M/E Constellation 4K Plus</li>
+<li>ATEM 4 M/E Constellation HD</li>
+<li>ATEM Camera Control Panel</li>
+<li>ATEM Constellation 8K</li>
+<li>ATEM Micro Camera Panel</li>
+<li>ATEM Micro Panel</li>
+<li>ATEM Mini Extreme</li>
+<li>ATEM Mini Extreme ISO G2</li>
+<li>ATEM Mini Pro</li>
+<li>ATEM Mini Pro ISO</li>
+<li>ATEM SDI</li>
+<li>ATEM SDI Pro ISO</li>
+<li>ATEM Streaming Bridge</li>
+<li>ATEM Streaming Bridge</li>
+<li>ATEM Television Studio 4K8</li>
+<li>ATEM Television Studio HD8</li>
+<li>ATEM Television Studio HD8 ISO</li>
+</ul>
+<p>However, only the following devices have been actually confirmed to work:</p>
+<ul>
+<li>ATEM Constellation 8K</li>
+</ul>
 
                                 
                                 <!-- Required only on API pages -->
