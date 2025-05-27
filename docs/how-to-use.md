@@ -14,6 +14,8 @@ Once connected, it will start logging the camera changes, and you should see the
 
 To export, stop the connection, then select an **Export** option, which generates a `FCPXML` for **Final Cut Pro** or **DaVinci Resolve**.
 
+You can't export the data whilst still in record mode.
+
 ---
 
 ## Export Program Cut
@@ -35,3 +37,13 @@ If you don't have a Camera ISO, it will default to the Program Feed - but you ne
 ![](/static/multicam.png)
 
 Again, we found that we needed to delay the ATEM camera changes by 1 frame, although SOMETIMES on SOME cameras, it was still off by a frame. I'm not currently sure if this is a limitation of the ATEM API, or if it's a bug somewhere in my code.
+
+---
+
+## Demo Data
+
+For those that don't have access to an ATEM (like myself), there's also a **Populate with Demo Data** button that fills the table with real-world data from an actual live event:
+
+![](/static/demo-data.png)
+
+You could then create your own dummy media (i.e. something that starts at `20:54:50:00` at 50fps) to test out the FCPXML exports.
