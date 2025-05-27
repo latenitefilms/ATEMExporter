@@ -2,6 +2,8 @@
 
 **ATEM Exporter** has been thrown together by [Chris Hocking](https://github.com/latenitefilms) at [LateNite](https://latenitefilms.com).
 
+HUGE THANK YOU to my good friends Luke & Craig at [Five Peas](https://www.fivepeas.com.au) for allowing me to try this crazy idea on a live show. 😬
+
 The **ATEM Exporter** icon was designed by the amazing [Matthew Skiles](http://matthewskiles.com).
 
 Chris also created [CommandPost](https://commandpost.io), [Transfer Toolbox](https://transfertoolbox.io), [BRAW Toolbox](https://brawtoolbox.io), [Marker Toolbox](https://markertoolbox.io) and [Gyroflow Toolbox](https://gyroflowtoolbox.io).
