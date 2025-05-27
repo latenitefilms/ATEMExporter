@@ -48,6 +48,8 @@ HUGE THANK YOU to [Damiaan Dufaux](https://github.com/Dev1an) for his amazing wo
 
 I would never have been able to make this app so quickly if it wasn't for his genius!
 
+I have forked his repository [here](https://github.com/latenitefilms/Swift-Atem), and plan to keep it up-to-date.
+
 ```
 MIT License
 
