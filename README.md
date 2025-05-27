@@ -1,2 +1,3 @@
-# ATEMExporter
-ATEM Exporter Website
+# ATEM Exporter
+
+This is the documentation website for ATEM Exporter.
