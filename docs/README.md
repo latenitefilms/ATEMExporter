@@ -1,8 +1,8 @@
 # ATEM Exporter
 
-> [:icon-desktop-download: Click here to **buy** on the **Mac App Store**](/buy/)
-
 **ATEM Exporter** is a native Swift + Swift UI Mac Application that listens to a [Blackmagic ATEM switcher](https://www.blackmagicdesign.com/products/atem), and logs all the camera changes.
+
+> [:icon-desktop-download: Click here to **buy** on the **Mac App Store**](/buy/)
 
 ![](/static/demo-data.png)
 
