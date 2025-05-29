@@ -10,9 +10,9 @@ Once connected, it will start logging the camera changes, and you should see the
 
 ![](/static/demo-data.png)
 
-To export, first stop the connection, then select an **Export** option, which generates a `FCPXML` for **Final Cut Pro** or **DaVinci Resolve**.
+To export, simply select an **Export** option, which generates a `FCPXML` for **Final Cut Pro** or **DaVinci Resolve**.
 
-You can't export the data whilst still in record mode, so you need to stop before the Export option is clickable.
+You can export during a live/recording situation - whatever is currently visible in the camera/timecode list will be exported.
 
 ---
 
