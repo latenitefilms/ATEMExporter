@@ -9,7 +9,7 @@
 
 **🔨 Improvements:**
 - Improved default file names for FCPXML exports.
-- You can now export whilst still "recording" in live mode. Thanks for the suggestion Alexander Lindsay!
+- You can now export whilst still "recording" in live mode. Thanks for the suggestion Alex Lindsay!
 
 ---
 

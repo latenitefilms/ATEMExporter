@@ -50,7 +50,9 @@ You could then create your own dummy media (i.e. something that starts at `20:54
 
 ## Supported Hardware
 
-ATEM Exporter was built in a few hours during a live event, and has **only** been physically tested in a real-world live production using an **ATEM Constellation**, Blackmagic HyperDeck's and AJA recorders for ISOs - so if you use a different variety of ATEM, it may or may not work currently.
+ATEM Exporter was built in a few hours during a live music event, and has **only** been physically tested in a real-world live production using an **ATEM Constellation 8K** and Blackmagic HyperDeck's and AJA recorders for ISOs.
+
+If you use a different variety of ATEM, it may or may not work currently.
 
 In THEORY though, the following devices are supported:
 
@@ -89,3 +91,5 @@ In THEORY though, the following devices are supported:
 However, only the following devices have been actually confirmed to work:
 
 - ATEM Constellation 8K
+
+Please reach out if you have a positive experience!
