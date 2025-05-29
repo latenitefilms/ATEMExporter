@@ -1,12 +1,12 @@
 # ATEM Exporter
 
+> [:icon-desktop-download: Click here to **buy** on the **Mac App Store**](/buy/)
+
 **ATEM Exporter** is a native Swift + Swift UI Mac Application that listens to a [Blackmagic ATEM switcher](https://www.blackmagicdesign.com/products/atem), and logs all the camera changes.
 
 ![](/static/demo-data.png)
 
 You can export the camera changes as a Final Cut Pro `FCPXML`, to use in Final Cut Pro or Blackmagic DaVinci Resolve.
-
-> [:icon-desktop-download: Click here to **buy** on the **Mac App Store**](/buy/)
 
 You can export a **Program Cut**, which allows you to use your program feed from an external recorder (such as a [Blackmagic HyperDeck](https://www.blackmagicdesign.com/products/hyperdeck)), and add cut points each time there's a camera change.
 
