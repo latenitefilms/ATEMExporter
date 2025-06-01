@@ -1,5 +1,15 @@
 # Release Notes
 
+## 1.0.2 (4)
+
+**🎉 Released:**
+- 1st June 2025
+
+**🔨 Improvements:**
+- Updated icon by the amazing [Matthew Skiles](http://matthewskiles.com)!
+
+---
+
 ## 1.0.1 (3)
 
 **🎉 Released:**
