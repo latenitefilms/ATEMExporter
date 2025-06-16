@@ -1,6 +1,6 @@
 # Tutorial Video
 
-You can watch a quick and dirty tutorial video below:
+You can watch a quick and dirty tutorial video (that I recorded late at night for Apple's App Store Review) below:
 
 <div style="position: relative; padding-top: 56.25%;">
   <iframe
