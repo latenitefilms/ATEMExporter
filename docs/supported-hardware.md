@@ -15,7 +15,7 @@ ATEM 1 M/E Advanced Panel 10        | ❓ Untested
 ATEM 1 M/E Advanced Panel 20        | ❓ Untested
 ATEM 1 M/E Advanced Panel 30        | ❓ Untested
 ATEM 1 M/E Constellation 4K         | ❓ Untested
-ATEM 1 M/E Constellation HD         | ❓ Untested
+ATEM 1 M/E Constellation HD         | ✅ Confirmed by user
 ATEM 2 M/E Advanced Panel 20        | ❓ Untested
 ATEM 2 M/E Advanced Panel 30        | ❓ Untested
 ATEM 2 M/E Advanced Panel 40        | ❓ Untested
@@ -24,7 +24,7 @@ ATEM 2 M/E Constellation HD         | ❓ Untested
 ATEM 4 M/E Advanced Panel 40        | ❓ Untested
 ATEM 4 M/E Constellation 4K         | ❓ Untested
 ATEM 4 M/E Constellation 4K Plus    | ❓ Untested
-ATEM 4 M/E Constellation HD         | ❓ Untested
+ATEM 4 M/E Constellation HD         | ✅ Confirmed by user
 ATEM Camera Control Panel           | ❓ Untested
 ATEM Constellation 8K               | ✅ Confirmed by developer
 ATEM Micro Camera Panel             | ❓ Untested
