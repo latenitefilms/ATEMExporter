@@ -1,5 +1,15 @@
 # Release Notes
 
+## 1.0.3 (5)
+
+**🎉 Released:**
+- 23rd June 2025
+
+**🐞 Bug Fix:**
+- Fixed a regression which prevented connecting to an ATEM device. HUGE THANK YOU to Hans Linssen for all his help, support and testing! Thank you to all our TestFlight users!
+
+---
+
 ## 1.0.2 (4)
 
 **🎉 Released:**
