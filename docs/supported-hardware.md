@@ -15,7 +15,7 @@ ATEM 1 M/E Advanced Panel 10        | ❓ Untested
 ATEM 1 M/E Advanced Panel 20        | ❓ Untested
 ATEM 1 M/E Advanced Panel 30        | ❓ Untested
 ATEM 1 M/E Constellation 4K         | ❓ Untested
-ATEM 1 M/E Constellation HD         | ✅ Confirmed by user
+ATEM 1 M/E Constellation HD         | ✅ Confirmed by Hans Linssen
 ATEM 2 M/E Advanced Panel 20        | ❓ Untested
 ATEM 2 M/E Advanced Panel 30        | ❓ Untested
 ATEM 2 M/E Advanced Panel 40        | ❓ Untested
@@ -24,19 +24,21 @@ ATEM 2 M/E Constellation HD         | ❓ Untested
 ATEM 4 M/E Advanced Panel 40        | ❓ Untested
 ATEM 4 M/E Constellation 4K         | ❓ Untested
 ATEM 4 M/E Constellation 4K Plus    | ❓ Untested
-ATEM 4 M/E Constellation HD         | ✅ Confirmed by user
+ATEM 4 M/E Constellation HD         | ✅ Confirmed by Hans Linssen
 ATEM Camera Control Panel           | ❓ Untested
-ATEM Constellation 8K               | ✅ Confirmed by developer
+ATEM Constellation 8K               | ✅ Confirmed by Chris Hocking
 ATEM Micro Camera Panel             | ❓ Untested
 ATEM Micro Panel                    | ❓ Untested
 ATEM Mini Extreme                   | ❓ Untested
-ATEM Mini Extreme ISO G2            | ❓ Untested
-ATEM Mini Pro                       | ✅ Confirmed by user
-ATEM Mini Pro ISO                   | ✅ Confirmed by user
-ATEM SDI                            | ✅ Confirmed by user
+ATEM Mini Extreme ISO G2            | ✅ Confirmed by Jeff Roy
+ATEM Mini Pro                       | ✅ Confirmed by Jeff Roy
+ATEM Mini Pro ISO                   | ❓ Untested
+ATEM SDI                            | ✅ Confirmed by Michael Sanders
 ATEM SDI Pro ISO                    | ❓ Untested
 ATEM Television Studio 4K8          | ❓ Untested
 ATEM Television Studio HD8          | ❓ Untested
 ATEM Television Studio HD8 ISO      | ❓ Untested
 
-Please reach out if you have tested on any devices we haven't tested yet! Thanks team!
+Please reach out if you have tested on any devices we haven't tested yet!
+
+HUGE THANK YOU to everyone who's tested out ATEM hardware - HUGELY appreciated!
