@@ -1,5 +1,18 @@
 # Release Notes
 
+## 1.1.0 (6)
+
+**🎉 Released:**
+- 8th April 2026
+
+
+**🔨 Improvements:**
+- Adds an optional checkbox to log preview bus camera changes alongside program bus cuts. Thanks Vlad at Amid Films!
+- Adds a dropdown to select which Mix/Effect bus (M/E 1-4) to log cuts from. Defaults to M/E 1. Both program and preview bus handlers now filter events by the selected M/E. Thanks Vlad at Amid Films!
+- Allows a recorded cut log to be saved as a readable XML file and reimported later, so FCPXML export can be done at any time without needing to be connected to the ATEM. Thanks Vlad at Amid Films!
+
+---
+
 ## 1.0.3 (5)
 
 **🎉 Released:**
